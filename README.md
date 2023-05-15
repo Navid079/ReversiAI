@@ -12,7 +12,6 @@ This implementation includes a powerful AI player based on the minimax algorithm
 
 - Graphical user interface using Java Swing for an interactive gameplay experience.
 - Single-player mode against an AI player utilizing the minimax algorithm.
-- Adjustable difficulty levels for the AI opponent.
 - Visual feedback for legal moves, invalid moves, and current player turn.
 - Game state tracking, including scores, current turn, and game completion.
 
@@ -32,6 +31,13 @@ To run the ReversiAI game on your local machine, follow these steps:
 ## Contribution
 
 Contributions to this project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request.
+
+## To Do
+- [ ] Adjustable difficulty levels for the AI opponent.
+- [ ] Better User Interface.
+- [ ] Multiplayer mode.
+- [ ] Sound effects
+- [ ] Scoreboard
 
 ## License
 
