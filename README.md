@@ -22,7 +22,7 @@ To run the ReversiAI game on your local machine, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the project in your favorite Java IDE.
-3. Compile and run the `Main` class.
+3. Compile and run the `UI/Game` class.
 4. Enjoy playing Reversi against the AI opponent!
 
 ## Screenshots
